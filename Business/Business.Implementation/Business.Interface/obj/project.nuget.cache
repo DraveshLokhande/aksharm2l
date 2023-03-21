@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1cd2JL5t1kzMagaoIdObLoqrRxVBZJEBYJeV8RAHGoJ0prkygwoC/ZhlNpcEXFSiv9FLzy10wp/ysaOCDzHbsw==",
+  "dgSpecHash": "WhR7ucv670NmjE1o2ErJmSihbfhVJ9aKWmaf7y+QIbHFyXEN9UlPG1q784J1kEd8IKlHwTMPLnXDszgd+rOORg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ERP\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

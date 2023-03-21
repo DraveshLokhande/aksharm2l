@@ -81,7 +81,7 @@ namespace ERP.Areas.Admin.Controllers
             }
             var server = new GridCoreServer<EmployeeMaster>(pds, query, false, "ordersGrid", columns, PAGESIZE, pds.TotalItemCount)
                 .Sortable()
-                .Searchable(true, false)
+                .Searchable(false, false)
                 .ClearFiltersButton(true)
                 .Selectable(true)
                 .WithGridItemsCount()
